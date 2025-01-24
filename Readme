@@ -1,0 +1,49 @@
+# Zeotap Submission Notebooks
+
+## Overview
+This repository contains notebooks related to data exploration and visualization tasks. The primary focus is on analyzing and visualizing data to derive meaningful insights.
+
+## Notebooks
+
+### Task 1: Data Exploration and Visualization
+- **Notebook:** `Aneesh_Rijhwani_EDA.ipynb`
+- **Description:** This notebook is dedicated to exploring and visualizing the dataset. It includes various steps such as data cleaning, data transformation, and generating visualizations to understand the data better.
+
+## Getting Started
+To get started with the notebooks, follow these steps:
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/AneeshRijhwani25/DataScience-eCommerce.git
+    ```
+2. Navigate to the directory:
+    ```
+    cd DataScience-eCommerce
+    ```
+3. Open the notebook in Jupyter:
+    ```
+    jupyter notebook Aneesh_Rijhwani_EDA.ipynb
+    ```
+
+## Requirements
+- Python 3.x
+- Jupyter Notebook
+- Required Python libraries (sklearn, seaborn, matplotlib)
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+- Special thanks to the contributors and the data providers.
+
+### Task 2: Customer Lookalike Model
+- **Notebook:** `Aneesh_Rijhwani_Lookalike.ipynb`
+- **Description:** This notebook focuses on building a customer lookalike model. It involves feature engineering, model training, and evaluation to identify potential customers who resemble existing ones.
+
+### Task 3: Customer Segmentation using Clustering
+- **Notebook:** `Aneesh_Rijhwani_Clustering.ipynb`
+- **Description:** This notebook is dedicated to customer segmentation using clustering techniques. It includes steps such as data preprocessing, applying clustering algorithms, and interpreting the clusters.
+
+## PDFs
+- **Task 1 PDF:** `Aneesh_Rijhwani_EDA.pdf`
+- **Task 2 PDF:** `Aneesh_Rijhwani_Clustering.pdf`
